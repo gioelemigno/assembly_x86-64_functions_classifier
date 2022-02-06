@@ -1,0 +1,9 @@
+nop
+punpcklqdq
+punpckldq
+stc
+out
+in
+wait
+cld
+loopne

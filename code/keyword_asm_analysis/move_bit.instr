@@ -1,0 +1,9 @@
+ror
+rol
+bswap
+pshufd
+rcl
+pshuflw
+bsr
+shufpd
+pshufhw

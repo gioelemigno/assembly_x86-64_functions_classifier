@@ -1,0 +1,8 @@
+pxor
+pand
+por
+padd
+sbb
+xadd
+psubq
+fchs

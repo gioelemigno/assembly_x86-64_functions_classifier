@@ -1,0 +1,11 @@
+leaq
+add
+sub
+imul
+xor
+or
+and
+lea
+adc
+pandn
+fsubp

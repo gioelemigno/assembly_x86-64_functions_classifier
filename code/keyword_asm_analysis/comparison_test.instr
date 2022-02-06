@@ -1,0 +1,14 @@
+cmp
+test
+ucomisd
+pcmpeqd
+bt
+scasb
+fcom
+pcmpeqb
+maxsd
+minsd
+pcmpgtd
+ucomiss
+repne
+fucomi

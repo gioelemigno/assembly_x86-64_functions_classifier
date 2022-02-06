@@ -1,0 +1,15 @@
+imulq
+mulq
+idivq 
+divq
+divsd
+mulsd
+idiv
+mul
+sqrtsd
+divss
+fprem
+div
+mulpd
+pmuludq
+fmul
